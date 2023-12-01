@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on <b>Glamour-Palette<b/>.<br>👯 I’m looking to collaborate on anything REACT.<br>🤝 I’m looking for amazing Frontend and Fullstack Developer roles.<br>🌱 I’m currently exploring Fullstack Development Landscape.<br>💬 Let's chat about Development and more Development.<br>⚡ Fun fact "Code, Coffee and Unicorn - My Motivation".<br>
+🔭 I’m currently working on <b>Glamour-Palette</b>.<br>👯 I’m looking to collaborate on anything REACT.<br>🤝 I’m looking for amazing Frontend and Fullstack Developer roles.<br>🌱 I’m currently exploring Fullstack Development Landscape.<br>💬 Let's chat about Development and more Development.<br>⚡ Fun fact "Code, Coffee and Unicorn - My Motivation".<br>
 
 
 ## 🌐 Socials:
