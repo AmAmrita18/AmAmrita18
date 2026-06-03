@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 👾, I'm Amrita Gupta</h1>
+<h2 align="center">Hello World! 👾, I'm Amrita Gupta</h2>
 
 <h3 align="center">
 SDE I @ Trackier | Frontend Engineer
@@ -85,10 +85,6 @@ const amrita = {
   ],
 };
 ```
-
-<br>
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━ ✨ ━━━━━━━━━━━━━━━━━━━━</p>
 
 <p align="center">
 ⚡ Code. Build. Optimize. Repeat. | Engineering Better Experiences.
