@@ -8,6 +8,12 @@ SDE I @ Trackier @ Trackier | Frontend Engineer
 Turning ideas into products and pixels into experiences✨.
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/amrita-gupta-582477230/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Amrita%20Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 ## 🚀 About Me
 
 💼 Software Development Engineer @ Trackier<br>
@@ -80,14 +86,10 @@ const amrita = {
 };
 ```
 
-<p align="center">
-🍀 Code. Build Optimize. Repeat. | Engineering Better Experiences
-</p>
+-
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amrita-gupta-582477230/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Amrita%20Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+🍀 Code. Build Optimize. Repeat. | Engineering Better Experiences
 </p>
 
 <p align="center">
