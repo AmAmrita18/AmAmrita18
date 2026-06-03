@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Amrita Gupta</h1>
 
 <h3 align="center">
-Frontend Engineer @ Trackier | React.js • Next.js • TypeScript
+Software Development Engineer @ Trackier | Frontend Engineer
 </h3>
 
 <p align="center">
-Building scalable, performant, and user-centric web applications.
+Building scalable, performant, and user-centric web applications with React.js, Next.js, and TypeScript.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amrita-gupta-582477230/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/amrita-gupta-582477230/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Amrita%20Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -18,58 +18,92 @@ Building scalable, performant, and user-centric web applications.
 
 ## 🚀 About Me
 
-- 💼 Frontend Engineer at **Trackier**
-- ⚛️ Building modern web applications using **React.js, Next.js, TypeScript, and JavaScript**
-- 📊 Contributing to enterprise products like **Affnook** and **CSNext**
-- 🎨 Passionate about creating intuitive user experiences and scalable frontend architectures
-- 🌱 Currently exploring **Frontend System Design**, **Advanced React Patterns**, and **AI Integrations**
-- 💬 Ask me about **React, Next.js, TypeScript, Frontend Architecture, Performance Optimization**
-- ⚡ Fun Fact: I enjoy turning complex requirements into elegant user interfaces.
+💼 Working as a **Software Development Engineer at Trackier**
+
+⚛️ Frontend-focused engineer with **2+ years of experience** building scalable web applications using **React.js, Next.js, TypeScript, and JavaScript**
+
+📈 Experienced in developing enterprise SaaS products, analytics dashboards, reporting systems, and complex business workflows
+
+🚀 Passionate about **Frontend Architecture, Performance Optimization, Design Systems, and Product Engineering**
+
+🔧 Skilled in transforming product requirements and Figma designs into production-ready applications
+
+🤝 Enjoy collaborating with Product, Design, QA, and Backend teams to deliver impactful user experiences
+
+🌱 Currently exploring:
+- Frontend System Design
+- AI Integrations
+- Scalable Web Architectures
+- Advanced React Patterns
+
+💬 Ask me about:
+- React.js
+- Next.js
+- TypeScript
+- JavaScript
+- Frontend Architecture
+- Performance Optimization
+- UI/UX Implementation
+
+⚡ Fun Fact:
+> I enjoy optimizing applications as much as building them.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui)
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap" />
+</p>
 
 ### Backend & Database
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens" />
+</p>
 
-### Tools
+### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma" />
+</p>
 
 ---
 
 ## 💡 What I Do
 
-✅ Build scalable frontend applications
+✅ Build scalable and maintainable frontend applications
 
-✅ Convert Figma designs into production-ready interfaces
+✅ Create reusable component libraries and UI systems
 
-✅ Develop reusable and maintainable component systems
+✅ Convert Figma designs into pixel-perfect interfaces
 
-✅ Integrate APIs and business workflows
+✅ Integrate APIs and complex business workflows
 
-✅ Optimize performance and user experience
+✅ Improve application performance and user experience
 
-✅ Collaborate with Product, Design, QA, and Backend teams
+✅ Optimize rendering, bundle size, and frontend architecture
+
+✅ Collaborate across teams to ship high-quality products
 
 ---
 
@@ -106,40 +140,50 @@ Building scalable, performant, and user-centric web applications.
 
 ```typescript
 const amrita = {
-  role: "Frontend Engineer",
+  role: "Software Development Engineer",
+  specialization: "Frontend Engineering",
   company: "Trackier",
+  experience: "2+ Years",
+
   expertise: [
     "React.js",
     "Next.js",
     "TypeScript",
-    "Frontend Architecture"
+    "Frontend Architecture",
+    "Performance Optimization",
   ],
-  learning: [
-    "System Design",
+
+  currentlyLearning: [
+    "Frontend System Design",
     "AI Integrations",
-    "Scalable Frontend Applications"
+    "Scalable Architectures",
+  ],
+
+  interests: [
+    "Building Great Products",
+    "Developer Experience",
+    "UI/UX",
+    "Web Performance",
   ],
 };
 ```
 
 ---
 
-## 🌍 Let's Connect
-
-📩 Open to discussions around Frontend Engineering, React Ecosystem, Product Development, and exciting opportunities.
+## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/amrita-gupta-582477230/">
-    <img src="https://img.shields.io/badge/LinkedIn-Amrita%20Gupta-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/amrita-gupta-582477230/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Amrita%20Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-✨ Building products that users love, one component at a time.
+✨ Building fast, scalable, and user-focused web experiences.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmAmrita18&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=AmAmrita18&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
