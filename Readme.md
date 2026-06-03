@@ -1,11 +1,11 @@
 <h1 align="center">Hello World! 👾, I'm Amrita Gupta</h1>
 
 <h3 align="center">
-SDE I @ Trackier @ Trackier | Frontend Engineer
+SDE I @ Trackier | Frontend Engineer
 </h3>
 
 <p align="center">
-Turning ideas into products and pixels into experiences✨.
+Turning ideas into products and pixels into experiences ✨
 </p>
 
 <p align="center">
@@ -86,10 +86,12 @@ const amrita = {
 };
 ```
 
--
+<br>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━ ✨ ━━━━━━━━━━━━━━━━━━━━</p>
 
 <p align="center">
-🍀 Code. Build Optimize. Repeat. | Engineering Better Experiences
+⚡ Code. Build. Optimize. Repeat. | Engineering Better Experiences.
 </p>
 
 <p align="center">
