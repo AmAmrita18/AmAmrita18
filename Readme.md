@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Amrita Gupta</h1>
+<h1 align="center">Hello World! 👾, I'm Amrita Gupta</h1>
 
 <h3 align="center">
 SDE1 @ Trackier | Frontend Engineer
 </h3>
 
 <p align="center">
-Building scalable, performant, and user-centric web applications.
+Turning ideas into products and pixels into experiences✨.
 </p>
 
 <p align="center">
@@ -19,17 +19,11 @@ Building scalable, performant, and user-centric web applications.
 ## 🚀 About Me
 
 💼 Software Development Engineer @ Trackier
-
 ⚛️ Frontend-focused engineer with 2+ years of experience building modern web applications
-
 🚀 Specializing in React.js, Next.js, TypeScript, and scalable frontend architectures
-
 👩🏻‍💻 Experienced in Performance Optimization, Frontend Architecture, and building enterprise SaaS products
-
 📊 Passionate about Product Engineering
-
 🌱 Currently exploring Frontend System Design, Advanced React Patterns and AI-powered applications
-
 💬 Ask me about React.js, Next.js, TypeScript, Frontend Architecture, and Web Performance
 
 ---
@@ -62,19 +56,13 @@ Building scalable, performant, and user-centric web applications.
 
 ## 💡 What I Do
 
-✅ Build scalable and maintainable frontend applications
-
-✅ Create reusable component libraries and UI systems
-
-✅ Convert Figma designs into pixel-perfect interfaces
-
-✅ Integrate APIs and complex business workflows
-
-✅ Improve application performance and user experience
-
-✅ Optimize rendering, bundle size, and frontend architecture
-
-✅ Collaborate across teams to ship high-quality products
+- Build scalable and maintainable frontend applications
+- Create reusable component libraries and UI systems
+- Convert Figma designs into pixel-perfect interfaces
+- Integrate APIs and complex business workflows
+- Improve application performance and user experience
+- Optimize rendering, bundle size, and frontend architecture
+- Collaborate across teams to ship high-quality products
 
 ---
 
@@ -126,10 +114,7 @@ const amrita = {
 ---
 
 <p align="center">
-✨ Turning ideas into products and pixels into experiences.
-</p>
-<p align="center">
-🚀 Code. Create. Optimize. Repeat.
+🍀 Code. Build Optimize. Repeat. | Engineering Better Experiences
 </p>
 
 <p align="center">
