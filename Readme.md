@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! 👾, I'm Amrita Gupta</h1>
 
 <h3 align="center">
-SDE1 @ Trackier | Frontend Engineer
+SDE I @ Trackier @ Trackier | Frontend Engineer
 </h3>
 
 <p align="center">
@@ -18,12 +18,12 @@ Turning ideas into products and pixels into experiences✨.
 
 ## 🚀 About Me
 
-💼 Software Development Engineer @ Trackier
-⚛️ Frontend-focused engineer with 2+ years of experience building modern web applications
-🚀 Specializing in React.js, Next.js, TypeScript, and scalable frontend architectures
-👩🏻‍💻 Experienced in Performance Optimization, Frontend Architecture, and building enterprise SaaS products
-📊 Passionate about Product Engineering
-🌱 Currently exploring Frontend System Design, Advanced React Patterns and AI-powered applications
+💼 Software Development Engineer @ Trackier<br>
+⚛️ Frontend-focused engineer with 2+ years of experience building modern web applications<br>
+🚀 Specializing in React.js, Next.js, TypeScript, and scalable frontend architectures<br>
+👩🏻‍💻 Experienced in Performance Optimization, Frontend Architecture, and building enterprise SaaS products<br>
+📊 Passionate about Product Engineering<br>
+🌱 Currently exploring Frontend System Design, Advanced React Patterns and AI-powered applications<br>
 💬 Ask me about React.js, Next.js, TypeScript, Frontend Architecture, and Web Performance
 
 ---
@@ -54,28 +54,16 @@ Turning ideas into products and pixels into experiences✨.
 
 ---
 
-## 💡 What I Do
-
-- Build scalable and maintainable frontend applications
-- Create reusable component libraries and UI systems
-- Convert Figma designs into pixel-perfect interfaces
-- Integrate APIs and complex business workflows
-- Improve application performance and user experience
-- Optimize rendering, bundle size, and frontend architecture
-- Collaborate across teams to ship high-quality products
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmAmrita18&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=AmAmrita18&show_icons=true&theme=tokyonight&hide_border=true" height="170" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmAmrita18&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmAmrita18&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
