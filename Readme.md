@@ -8,14 +8,6 @@ SDE I @ Trackier @ Trackier | Frontend Engineer
 Turning ideas into products and pixels into experiences✨.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/amrita-gupta-582477230/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Amrita%20Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 🚀 About Me
 
 💼 Software Development Engineer @ Trackier<br>
@@ -25,8 +17,6 @@ Turning ideas into products and pixels into experiences✨.
 📊 Passionate about Product Engineering<br>
 🌱 Currently exploring Frontend System Design, Advanced React Patterns and AI-powered applications<br>
 💬 Ask me about React.js, Next.js, TypeScript, Frontend Architecture, and Web Performance
-
----
 
 ## 🛠️ Tech Stack
 
@@ -52,20 +42,11 @@ Turning ideas into products and pixels into experiences✨.
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma" />
 </p>
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=AmAmrita18&show_icons=true&theme=tokyonight&hide_border=true" height="170" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmAmrita18&theme=tokyonight&hide_border=true" height="170" />
 </p>
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmAmrita18&layout=compact&theme=tokyonight&hide_border=true" />
-</p> -->
-
----
 
 ## 🎯 Current Focus
 
@@ -99,10 +80,14 @@ const amrita = {
 };
 ```
 
----
-
 <p align="center">
 🍀 Code. Build Optimize. Repeat. | Engineering Better Experiences
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amrita-gupta-582477230/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Amrita%20Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
