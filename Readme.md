@@ -19,11 +19,17 @@ Building scalable, performant, and user-centric web applications.
 ## 🚀 About Me
 
 💼 Software Development Engineer @ Trackier
+
 ⚛️ Frontend-focused engineer with 2+ years of experience building modern web applications
+
 🚀 Specializing in React.js, Next.js, TypeScript, and scalable frontend architectures
+
 👩🏻‍💻 Experienced in Performance Optimization, Frontend Architecture, and building enterprise SaaS products
+
 📊 Passionate about Product Engineering
+
 🌱 Currently exploring Frontend System Design, Advanced React Patterns and AI-powered applications
+
 💬 Ask me about React.js, Next.js, TypeScript, Frontend Architecture, and Web Performance
 
 ---
@@ -57,11 +63,17 @@ Building scalable, performant, and user-centric web applications.
 ## 💡 What I Do
 
 ✅ Build scalable and maintainable frontend applications
+
 ✅ Create reusable component libraries and UI systems
+
 ✅ Convert Figma designs into pixel-perfect interfaces
+
 ✅ Integrate APIs and complex business workflows
+
 ✅ Improve application performance and user experience
+
 ✅ Optimize rendering, bundle size, and frontend architecture
+
 ✅ Collaborate across teams to ship high-quality products
 
 ---
@@ -113,18 +125,11 @@ const amrita = {
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/amrita-gupta-582477230/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Amrita%20Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
 <p align="center">
-✨ Building fast, scalable, and user-focused web experiences.
+✨ Turning ideas into products and pixels into experiences.
+</p>
+<p align="center">
+🚀 Code. Create. Optimize. Repeat.
 </p>
 
 <p align="center">
